@@ -7,7 +7,8 @@ In this project it's reqired to design a circuit for 5 the eyes of the robot (pa
 - 2x LEDs 
 - 2x Resistors (1k) ohm
 - 2x n-type MOSFETs
-- 1x 5v voltage regulator (LM7805)
+- 1x 5V voltage regulator (LM7805)
+- 1x 9V battery
 
 # Resources:
 

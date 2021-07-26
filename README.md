@@ -1,6 +1,6 @@
 # Robot's Eyes
 
-In this project it's reqired to design a circuit for 5 the eyes of the robot (parallel connection have been choosen here -please check the code for more details-)
+In this project it's reqired to design a circuit for the eyes of the robot (parallel connection have been choosen here -please check the code for more details-)
 
 # Components:
 - Arduino Uno
